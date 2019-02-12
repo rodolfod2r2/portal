@@ -1,0 +1,53 @@
+[
+  {
+    "pknot": "3",
+    "editoria": "Entretenimento",
+    "categoria": "Cidades",
+    "subcategoria": "Cabedelo",
+    "autor": "rodolfo",
+    "criado": "20/12/2016 15:09:11",
+    "publicado": "10/03/2017 16:30:06",
+    "status": "1",
+    "posicao": "destaque",
+    "view": "30",
+    "imagem": "http://www.todoestudo.com.br/wp-content/uploads/2015/03/paisagem-natural-1024x679.jpg",
+    "titulo": "teste de view 2314",
+    "subtitulo": "testeando a vizualização 23",
+    "chamada": "chamada da noticia 23",
+    "conteudo": "conteudo da noticia 23"
+  },
+  {
+    "pknot": "2",
+    "editoria": "Geral",
+    "categoria": "Brasil",
+    "subcategoria": "João Pessoa",
+    "autor": "rodolfo",
+    "criado": "20/12/2016 15:09:11",
+    "publicado": "10/03/2017 09:51:38",
+    "status": "1",
+    "posicao": "destaque",
+    "view": "15",
+    "imagem": "http://folhanobre.xyz/2015/09/Paisagem_imagem_linda_-52.jpg",
+    "titulo": "teste de view 2",
+    "subtitulo": "testeando a vizualização 2",
+    "chamada": "chamada da noticia 2",
+    "conteudo": "conteudo da noticia 2"
+  },
+  {
+    "pknot": "1",
+    "editoria": "Geral",
+    "categoria": "Mundo",
+    "subcategoria": "Paraíba",
+    "autor": "rodolfo",
+    "criado": "20/12/2016 15:09:11",
+    "publicado": "03/03/2017 12:29:56",
+    "status": "1",
+    "posicao": "destaque",
+    "view": "16",
+    "imagem": "http://www.todoestudo.com.br/wp-content/uploads/2015/03/paisagem-natural-1024x679.jpg",
+    "titulo": "teste de view",
+    "subtitulo": "testeando a vizualização",
+    "chamada": "chamada da noticia",
+    "conteudo": "conteudo da noticia"
+  }
+]
